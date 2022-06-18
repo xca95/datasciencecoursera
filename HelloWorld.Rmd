@@ -1,0 +1,10 @@
+---
+title: "My first R markdown"
+author: "Pluckygirl"
+date: '2022-06-18'
+output:
+  pdf: default
+ 
+---
+
+## This is a markdown file
